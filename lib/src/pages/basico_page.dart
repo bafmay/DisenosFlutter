@@ -22,6 +22,7 @@ class BasicoPage extends StatelessWidget {
   }
 
   Widget _crearImagen() {
+    
     return Container(
       width: double.infinity,
       child: Image(
